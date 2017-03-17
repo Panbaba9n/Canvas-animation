@@ -1,0 +1,22 @@
+{
+  "name": "fusion",
+  "version": "1.0.0",
+  "authors": [
+    "Vladimir Kolesnikov"
+  ],
+  "description": "Testovoe zadanie",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "html5shiv": "^3.7.3",
+    "modernizr": "^3.3.1",
+    "es5-shim": "^4.5.9",
+    "respond": "^1.4.2",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {}
+}

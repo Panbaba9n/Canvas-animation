@@ -1,0 +1,25 @@
+{
+  "name": "fusion",
+  "version": "1.0.0",
+  "description": "Testovoe zadanie",
+  "author": "Vladimir Kolesnikov",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.0.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.11",
+    "imagemin-pngquant": "^5.0.0",
+    "node-bourbon": "^4.2.8",
+    "rimraf": "^2.6.1"
+  },
+  "dependencies": {}
+}
